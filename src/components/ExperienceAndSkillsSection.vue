@@ -75,15 +75,15 @@
     const Experinces = ref([
         {
             id:1,
-            role:'Software Engineer',
-            company:'Microsoft',
-            date:'Mar 2023 - September 2024'
+            role:'Software Developer',
+            company:'Mesiniaga',
+            date:'September 2023 - Current'
         },
         {
             id:2,
-            role:'Frontend Developer',
-            company:'Spotify',
-            date:'Mar 2022 - September 2023'
+            role:'IT Intern (Degree Internship)',
+            company:'ExxonMobil',
+            date:'Mar 2023 - June 2023'
         },
     ])
 </script>
